@@ -13,9 +13,9 @@ async def start(c, m):
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')},
 
-** I am Stylish Font Bot ✍️**
+** I ᴀᴍ Sᴛʏʟɪsʜ Fᴏɴᴛ Bᴏᴛ ✍️**
 
-`I can help you to get stylish fonts. Just send me some text and see magic.`
+I ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ɢᴇᴛ sᴛʏʟɪsʜ ғᴏɴᴛs. Jᴜsᴛ sᴇɴᴅ ᴍᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴀɴᴅ sᴇᴇ ᴍᴀɢɪᴄ.`
 
 ** Developer by :** ❤️ ▷ [@Harhsu_Raven](https://t.me/SPARROW_bots)
 """
